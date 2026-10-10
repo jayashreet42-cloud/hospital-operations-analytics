@@ -1,0 +1,21 @@
+Patient_ID,Department,Admission_Date,Discharge_Date,Admission_Type,Discharge_Status,Billing_Amount_INR
+P1001,Cardiology,2026-01-03,2026-01-07,Emergency,Home,42000
+P1002,Pediatrics,2026-01-04,2026-01-06,Scheduled,Home,12500
+P1003,Orthopedics,2026-01-05,2026-01-10,Emergency,Home,38500
+P1004,General Medicine,2026-01-06,2026-01-08,Emergency,Home,9800
+P1005,Cardiology,2026-01-07,2026-01-12,Scheduled,Home,51000
+P1006,Neurology,2026-01-08,2026-01-13,Emergency,Transferred,46500
+P1007,Pediatrics,2026-01-09,2026-01-10,Emergency,Home,8200
+P1008,Orthopedics,2026-01-10,2026-01-14,Scheduled,Home,32000
+P1009,General Medicine,2026-01-11,2026-01-14,Emergency,Home,14600
+P1010,Cardiology,2026-01-12,2026-01-16,Emergency,Home,39800
+P1011,Neurology,2026-01-13,2026-01-18,Scheduled,Home,44000
+P1012,Pediatrics,2026-01-14,2026-01-16,Scheduled,Home,11200
+P1013,Orthopedics,2026-01-15,2026-01-20,Emergency,Transferred,47500
+P1014,General Medicine,2026-01-16,2026-01-18,Scheduled,Home,10500
+P1015,Cardiology,2026-01-17,2026-01-22,Emergency,Home,56000
+P1016,Neurology,2026-01-18,2026-01-21,Emergency,Home,27800
+P1017,Pediatrics,2026-01-19,2026-01-21,Emergency,Home,9100
+P1018,Orthopedics,2026-01-20,2026-01-24,Scheduled,Home,35500
+P1019,General Medicine,2026-01-21,2026-01-23,Emergency,Home,13200
+P1020,Cardiology,2026-01-22,2026-01-27,Scheduled,Home,49000
